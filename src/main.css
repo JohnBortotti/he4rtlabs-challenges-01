@@ -38,3 +38,24 @@ purple {
   color: rgb(150, 65, 161);
   font-weight: 700;
 }
+
+.button-content {
+  position: absolute;
+  margin-left: 21%;
+  margin-top: 18%;
+  border: none;
+  background-color: rgb(150, 65, 161);
+  color: white;
+  font-size: 16px;
+  padding: 10px 35px;
+}
+
+.button-content:hover {
+  background-color: white;
+  border: 2px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: black;
+  transition-duration: 0.2s;
+  color: black;
+}
