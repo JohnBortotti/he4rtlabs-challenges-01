@@ -59,3 +59,25 @@ purple {
   transition-duration: 0.2s;
   color: black;
 }
+
+.calculadora {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10%;
+  padding-left: 100px;
+  height: 600px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+}
+
+.icon {
+  width: 15%;
+  margin-bottom: 15px;
+}
+
+h5 {
+  color: #6b6a6a;
+  font-weight: 400;
+}
+
