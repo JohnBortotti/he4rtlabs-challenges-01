@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+}
+
+#logo {
+  width: 16%;
+  margin-left: 16%;
+  margin-top: 5px;
+}
+
+#draw {
+  position: initial;
+  width: 50%;
+  margin-left: 50%;
+}
+
+h1 {
+  position: absolute;
+  font-family: 'Roboto', sans-serif;
+  font-size: 47px;
+  color: #353535;
+  margin-left: 8%;
+  margin-top: 6%;
+}
+
+h4 {
+  position: absolute;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  color: #6b6a6a;
+  margin-left: 4%;
+  margin-top: 11%;
+  font-weight: 200;
+  text-align: center;
+}
+
+purple {
+  color: rgb(150, 65, 161);
+  font-weight: 700;
+}
