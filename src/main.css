@@ -119,3 +119,19 @@ a {
   border: none;
   border-bottom: 2px solid rgb(113, 31, 124);
 }
+
+#calcular {
+  position: absolute;
+  margin-left: 45%;
+  margin-top: -20%;
+  border: none;
+  background-color: rgb(150, 65, 161);
+  color: white;
+  font-size: 16px;
+  padding: 10px 35px;
+}
+
+#calcular:hover {
+  transition-duration: 0.4s;
+  background-color: rgb(185, 80, 199);
+}
