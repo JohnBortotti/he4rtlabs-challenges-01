@@ -135,3 +135,26 @@ a {
   transition-duration: 0.4s;
   background-color: rgb(185, 80, 199);
 }
+
+#erro {
+  position: absolute; 
+  margin-left: 0%;
+  margin-top: -25%;
+  color:white;
+  padding: 10px;
+  background: rgba(177, 26, 26, 0.6);
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  visibility: hidden;
+}
+
+#resultado {
+  position: absolute; 
+  margin-left: 45%;
+  margin-top: -15%;
+  border-bottom: 3px rgb(113, 31, 124) solid;
+  color: rgb(113, 31, 124);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 26px;
+  text-align: center;
+}
