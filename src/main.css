@@ -12,6 +12,15 @@ html {
   margin-top: 5px;
 }
 
+#credits {
+  position: absolute;
+  margin-top: -60px;
+  margin-left: 80%;
+  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  color: #6b6a6a;
+}
+
 #draw {
   position: initial;
   width: 50%;
@@ -38,7 +47,7 @@ h4 {
   text-align: center;
 }
 
-purple {
+he4rt {
   color: rgb(150, 65, 161);
   font-weight: 700;
 }
@@ -85,11 +94,6 @@ h5 {
 
 #a {
   color: rgb(113, 31, 124);
-}
-
-a {
-  text-decoration: none;
-  color: white;
 }
 
 #valor-1 {
@@ -158,3 +162,10 @@ a {
   font-size: 26px;
   text-align: center;
 }
+ 
+a {
+   color: #9641a1;
+   text-decoration: none;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 700;
+ }
