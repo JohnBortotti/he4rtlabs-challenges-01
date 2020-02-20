@@ -21,7 +21,7 @@ document.getElementById("calcular").addEventListener("click", function(){
   else {
       const result = (valorProjeto / (diasEfetivos * 4 * horasDiarias) ) + ( ( diasFerias * diasEfetivos * horasDiarias ) )
       const valorHora = parseInt(result).toFixed(2);
-      document.getElementById("resultado").innerHTML = `R$ ${valorHora}`;
+      document.getElementById("resultado").innerHTML = `R$ ${valorHora} p/ hora`;
   }
 });
 
