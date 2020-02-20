@@ -91,3 +91,31 @@ a {
   text-decoration: none;
   color: white;
 }
+
+#valor-1 {
+  text-align: center;
+  margin-top: 55px;
+  border: none;
+  border-bottom: 2px solid rgb(113, 31, 124);
+}
+
+#valor-2 {
+  text-align: center;
+  margin-top: 22px;
+  border: none;
+  border-bottom: 2px solid rgb(113, 31, 124);
+}
+
+#valor-3 {
+  text-align: center;
+  margin-top: 60px;
+  border: none;
+  border-bottom: 2px solid rgb(113, 31, 124);
+}
+
+#valor-4 {
+  text-align: center;
+  margin-top: 45px;
+  border: none;
+  border-bottom: 2px solid rgb(113, 31, 124);
+}
