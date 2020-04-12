@@ -4,6 +4,7 @@ const button = document.getElementById("calcular")
 const resultadoHtml = document.getElementById("resultado")
 
 button.addEventListener('click', function() {
+    
   const horasDiarias = parseInt(document.getElementById("horasDiarias").value)
   const diasEfetivos = parseInt(document.getElementById("diasEfetivos").value)
   const diasFerias = parseInt(document.getElementById("diasFerias").value)
@@ -20,7 +21,6 @@ button.addEventListener('click', function() {
     resultadoHtml.innerHTML = `R$ ${valorHora}`
      
   }
-  
 
 })
 
