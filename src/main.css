@@ -161,4 +161,13 @@ html {
   .landing {
     background-image: url('img/landingMobile.png');
   }
+
+  .landing-text-container {
+    text-align: center;
+    margin-top: 200px;
+    height: 490px;
+    font-family: sans-serif;
+    width: 70%;
+    margin: auto;
+  }
 }
